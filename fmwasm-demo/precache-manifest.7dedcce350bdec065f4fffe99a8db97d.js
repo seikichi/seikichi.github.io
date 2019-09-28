@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fmwasm-demo/3807210b9e57726474b1.module.wasm"
   },
   {
-    "revision": "a8348156cd11f87ae160ec19f553e4a6",
+    "revision": "be091e2bcb25a91ee7284d4622bd6436",
     "url": "/fmwasm-demo/index.html"
   },
   {
-    "revision": "294ca3c8375cb884a193",
+    "revision": "8cc2102a6b9075cbc7c9",
     "url": "/fmwasm-demo/static/css/main.ba9cead4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fmwasm-demo/static/js/3.2ce1aee6.chunk.js"
   },
   {
-    "revision": "294ca3c8375cb884a193",
-    "url": "/fmwasm-demo/static/js/main.4851a0ca.chunk.js"
+    "revision": "8cc2102a6b9075cbc7c9",
+    "url": "/fmwasm-demo/static/js/main.88f22d9e.chunk.js"
   },
   {
     "revision": "5a4df22cbc8948132207",

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fmwasm-demo/static/css/main.ba9cead4.chunk.css",
-    "main.js": "/fmwasm-demo/static/js/main.4851a0ca.chunk.js",
-    "main.js.map": "/fmwasm-demo/static/js/main.4851a0ca.chunk.js.map",
+    "main.js": "/fmwasm-demo/static/js/main.88f22d9e.chunk.js",
+    "main.js.map": "/fmwasm-demo/static/js/main.88f22d9e.chunk.js.map",
     "runtime-main.js": "/fmwasm-demo/static/js/runtime-main.3e5965b7.js",
     "runtime-main.js.map": "/fmwasm-demo/static/js/runtime-main.3e5965b7.js.map",
     "static/js/2.d8c139b1.chunk.js": "/fmwasm-demo/static/js/2.d8c139b1.chunk.js",
@@ -11,7 +11,7 @@
     "3807210b9e57726474b1.module.wasm": "/fmwasm-demo/3807210b9e57726474b1.module.wasm",
     "static/js/3.2ce1aee6.chunk.js.map": "/fmwasm-demo/static/js/3.2ce1aee6.chunk.js.map",
     "index.html": "/fmwasm-demo/index.html",
-    "precache-manifest.ee07b7c7281680a65101b66fe95b37fd.js": "/fmwasm-demo/precache-manifest.ee07b7c7281680a65101b66fe95b37fd.js",
+    "precache-manifest.7dedcce350bdec065f4fffe99a8db97d.js": "/fmwasm-demo/precache-manifest.7dedcce350bdec065f4fffe99a8db97d.js",
     "service-worker.js": "/fmwasm-demo/service-worker.js",
     "static/css/main.ba9cead4.chunk.css.map": "/fmwasm-demo/static/css/main.ba9cead4.chunk.css.map"
   }
